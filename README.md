@@ -53,10 +53,6 @@
   <a href="https://github.com/ashmita246"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
 </p>
 
-<h2 align="left">Visit my website</h2>
-<p align="left">
-  <a href="https://zippyplan.com/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
-</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmita246&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmita246&layout=compact&theme=dark&hide_border=true)
