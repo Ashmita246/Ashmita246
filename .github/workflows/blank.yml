@@ -43,7 +43,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{secrets.MY_SECRET_KEY }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
