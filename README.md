@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </div>
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="github-user-contribution.svg"></a>
 <h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://np.linkedin.com/in/ashmita-c-141886225"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a>
