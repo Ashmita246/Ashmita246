@@ -53,6 +53,6 @@
   <a href="https://github.com/ashmita246"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/{ashmita246}/{ashmita246}/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{ashmita246}/{Ashmita246}/github-contribution-grid-snake.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmita246&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmita246&layout=compact&theme=dark&hide_border=true)
