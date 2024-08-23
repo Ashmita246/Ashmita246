@@ -9,7 +9,7 @@
   :books: I'm currently learning .NET and React.<br>
   :dart: Goals: To enhance my backend development skills and become proficient in full-stack development.
 </p>
-<a href=#><img src="github-user-contribution.svg"></a>
+<!-- <a href=#><img src="github-user-contribution.svg"></a> -->
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashmita246&color=blue" alt="Profile Views" />
@@ -53,6 +53,6 @@
   <a href="https://github.com/ashmita246"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
 </p>
 
-
+![Snake animation](https://raw.githubusercontent.com/{Ashmita246}/{Ashmita248}/output/github-contribution-grid-snake.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmita246&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmita246&layout=compact&theme=dark&hide_border=true)
