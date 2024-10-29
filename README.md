@@ -54,5 +54,4 @@
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/ashmita246/ashmita246/output/github-contribution-grid-snake-dark.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmita246&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmita246&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmita246&theme=dark&hide_border=true) 
